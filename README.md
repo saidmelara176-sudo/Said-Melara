@@ -17,10 +17,10 @@ Ejemplo: "Compara las ventajas y desventajas de trabajar desde casa frente a tra
 
 5. Formato y Estructura del Resultado
 Dile a la IA cómo quieres que organice la información para que sea fácil de leer y utilizar. Puedes pedir:
-Listas con viñetas
-Tablas comparativas
-Párrafos breves
-Secciones con encabezados
+Listas con viñetas,
+Tablas comparativas,
+Párrafos breves,
+Secciones con encabezados.
 
 6. Restricciones y Límites
 Establece lo que no debe incluir, el límite de palabras o el tono que debe mantener.
